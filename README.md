@@ -5,6 +5,6 @@ Only goal of this project was to deserialize AllSets.json and return list of car
 
 Usage:
 ```
-var loader = new JSONCardLoader(@"TestFiles\Leeroy.json");
+var loader = new JSONCardLoader(@"FilePath\AllSets.json");
 var cards = loader.LoadCards();
 ```
