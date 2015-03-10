@@ -13,6 +13,6 @@ var cards = loader.LoadCards();
 ```
 
 
-#License and Copyright(back to top)
+#License and Copyright
 
 Card names and text are all copyright Blizzard Entertainment.
