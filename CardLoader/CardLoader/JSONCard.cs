@@ -41,9 +41,9 @@ namespace CardLoader
 
         public int? Durability { get; set; }
 
-        public bool Collectible { get; set; }
+        public bool? Collectible { get; set; }
 
-        public bool Elite { get; set; }
+        public bool? Elite { get; set; }
 
         public string HowToGet { get; set; }
 
